@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\laptrinhmangcanbannnn\\baitapthu2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F46FCD3-2217-423E-A15C-E9FE397741EF}|baitapthu2\\baitapthu2.csproj|e:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F46FCD3-2217-423E-A15C-E9FE397741EF}|baitapthu2\\baitapthu2.csproj|solutionrelative:baitapthu2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F46FCD3-2217-423E-A15C-E9FE397741EF}|baitapthu2\\baitapthu2.csproj|e:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{4F46FCD3-2217-423E-A15C-E9FE397741EF}|baitapthu2\\baitapthu2.csproj|solutionrelative:baitapthu2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F46FCD3-2217-423E-A15C-E9FE397741EF}|baitapthu2\\baitapthu2.csproj|e:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F46FCD3-2217-423E-A15C-E9FE397741EF}|baitapthu2\\baitapthu2.csproj|solutionrelative:baitapthu2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F46FCD3-2217-423E-A15C-E9FE397741EF}|baitapthu2\\baitapthu2.csproj|e:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F46FCD3-2217-423E-A15C-E9FE397741EF}|baitapthu2\\baitapthu2.csproj|solutionrelative:baitapthu2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F46FCD3-2217-423E-A15C-E9FE397741EF}|baitapthu2\\baitapthu2.csproj|e:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F46FCD3-2217-423E-A15C-E9FE397741EF}|baitapthu2\\baitapthu2.csproj|solutionrelative:baitapthu2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\Form1.cs",
+              "RelativeDocumentMoniker": "baitapthu2\\Form1.cs",
+              "ToolTip": "E:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\Form1.cs",
+              "RelativeToolTip": "baitapthu2\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:32:03.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\Program.cs",
+              "RelativeDocumentMoniker": "baitapthu2\\Program.cs",
+              "ToolTip": "E:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\Program.cs",
+              "RelativeToolTip": "baitapthu2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:24:35.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "E:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\Form1.resx",
+              "RelativeDocumentMoniker": "baitapthu2\\Form1.resx",
+              "ToolTip": "E:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\Form1.resx",
+              "RelativeToolTip": "baitapthu2\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-01T03:24:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "baitapthu2\\Form1.Designer.cs",
+              "ToolTip": "E:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\Form1.Designer.cs",
+              "RelativeToolTip": "baitapthu2\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwEwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:24:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\Form1.cs",
+              "RelativeDocumentMoniker": "baitapthu2\\Form1.cs",
+              "ToolTip": "E:\\laptrinhmangcanbannnn\\baitapthu2\\baitapthu2\\Form1.cs [Design]",
+              "RelativeToolTip": "baitapthu2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:23:52.392Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
